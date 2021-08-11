@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Soaring World</title>
+
 <meta charset="UTF-8">
 <link rel="icon" type="image" href="ссылка">
 <link rel="stylesheet" href="style.before.css">
